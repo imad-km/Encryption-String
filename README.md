@@ -37,18 +37,6 @@ message = IMADS("hello");
 
 The output will be the encrypted form of `"hello"`.
 
-## Building the Project
-
-1. Clone or download the repository.
-2. Ensure that your environment has a C++ compiler set up.
-3. Compile the project using your preferred build system (e.g., `g++` or `MSBuild`).
-
-Example compilation using g++:
-
-```bash
-g++ -o encryptor main.cpp IMADS.cpp
-./encryptor
-```
 
 ## Dependencies
 
