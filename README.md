@@ -54,10 +54,5 @@ g++ -o encryptor main.cpp IMADS.cpp
 
 - A C++ compiler (e.g., g++, MSVC, Clang).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
-Feel free to adjust the contents according to your actual file names and details about how the encryption works.
